@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Magtanim ay Di Biro
+          Magtanim ay Di Biro, maghapon nakayuko...
+
         </a>
       </header>
     </div>
